@@ -1,0 +1,11 @@
+Model Information:
+* title:	puff pastry
+* source:	https://sketchfab.com/3d-models/puff-pastry-029713bb9ead4b99b0487011fb6f22c1
+* author:	Polybyheart (https://sketchfab.com/Polybyheart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "puff pastry" (https://sketchfab.com/3d-models/puff-pastry-029713bb9ead4b99b0487011fb6f22c1) by Polybyheart (https://sketchfab.com/Polybyheart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

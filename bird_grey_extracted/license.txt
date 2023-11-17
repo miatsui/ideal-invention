@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bird (Grey)
+* source:	https://sketchfab.com/3d-models/bird-grey-3660aa10f7f549e99ddefad7e2adeeb3
+* author:	David Wigforss (https://sketchfab.com/dwigfor)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bird (Grey)" (https://sketchfab.com/3d-models/bird-grey-3660aa10f7f549e99ddefad7e2adeeb3) by David Wigforss (https://sketchfab.com/dwigfor) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

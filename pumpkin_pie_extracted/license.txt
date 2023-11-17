@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pumpkin pie
+* source:	https://sketchfab.com/3d-models/pumpkin-pie-eedf27c034bd423ea7a04c5051f2767a
+* author:	Psychcreates (https://sketchfab.com/Psychcreates)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pumpkin pie" (https://sketchfab.com/3d-models/pumpkin-pie-eedf27c034bd423ea7a04c5051f2767a) by Psychcreates (https://sketchfab.com/Psychcreates) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
